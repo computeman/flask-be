@@ -15,6 +15,7 @@ jwt = "*"
 pyjwt = "*"
 flask-jwt-extended = "*"
 email-validator = "*"
+gunicorn = "*"
 
 [dev-packages]
 
